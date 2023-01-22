@@ -1,0 +1,7 @@
+// Work with variables and operators
+// Create two of each variable type for byte, short, int, long, float and double. Must set the values to 0.
+// Once created use the operators: addition, subtraction, multiplication and division on each pair of variables.
+// then use System.out.println() to show teh result after the operation is performed
+
+public class Homework1 {
+}
